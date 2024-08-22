@@ -1,0 +1,22 @@
+.container-header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 20px;
+}
+
+.logo {
+  height: 40px;
+  width: 40px;
+  background-color: white;
+  border-radius: 50%;
+}
+.list {
+  color: aliceblue;
+  display: flex;
+  gap: 20px;
+  list-style: none; /*para quitar los puntos*/
+  padding: 15px;
+  background-color: rgba(255, 255, 255, 0.3);
+  border-radius: 8px;
+}

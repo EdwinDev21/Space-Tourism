@@ -1,0 +1,6 @@
+.container-home {
+  background-position: center; /* Centra la imagen en el contenedor */
+  height: 100vh; 
+  width: 100%; 
+  background-image: url(../../assets/home/background-home-desktop.jpg);
+}
