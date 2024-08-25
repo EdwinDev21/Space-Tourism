@@ -1,0 +1,46 @@
+.content-display-container {
+  background-image: url("../../assets/crew/background-crew-desktop.jpg");
+  background-size: cover;
+  background-position: center;
+  width: 100vw;
+  height: 100vh;
+}
+.content-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.img-moon {
+  width: 300px;
+  height: 300px;
+}
+.pick-title {
+  font-family: "Barlow Condensed", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: white;
+  display: flex;
+  align-items: center;
+  padding-left: 100px;
+  font-size: 30px;
+}
+
+.moon-title {
+  font-family: "Barlow Condensed", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 50px;
+}
+
+.text {
+  width: 400px;
+  color: white;
+  font-family: "Barlow Condensed", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.distance {
+  display: flex;
+  justify-content: space-around;
+}
